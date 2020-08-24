@@ -1,0 +1,39 @@
+:root{
+    font-family: arial;
+  }
+  header{
+    background: #c0c0c0;
+    color: #252525;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+  }
+  #img-div{
+    width: 80%;
+    margin: 0 auto;
+  }
+  #img-div > img{
+     max-width: 100%;
+     margin: 0 auto;
+  }
+  #img-caption{
+    padding: 7px;
+    text-shadow: 3px 3px 2px #c0c0c0;
+  }
+  #tribute-info{
+    background: #e0e0e0;
+    margin-top: 10px;
+    width: 60vw;
+    margin: 0 auto;
+    padding: 30px;
+  }
+  #tribute-info > h3{
+    text-align: center;
+    padding: 15px;
+  }
+  #tribute-info > ul > li{
+    padding: 10px;
+  }
+  #tribute-info > p{
+    padding: 10px;
+  }
