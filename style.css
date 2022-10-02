@@ -10,6 +10,7 @@
   #img-div{
     width: 80%;
     margin: 0 auto;
+      text-align: center;
   }
   #img-div > img{
      max-width: 100%;
